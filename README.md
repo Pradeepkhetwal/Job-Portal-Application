@@ -23,6 +23,8 @@ React: A JavaScript library for building user interfaces, with hooks and functio
 Vite: A fast build tool for development with React.
 Tailwind CSS: A utility-first CSS framework for creating responsive and customizable UI.
 Redux: State management for consistent data flow across the app.
+
+
 Backend:
 
 Node.js: JavaScript runtime for building the backend API.
