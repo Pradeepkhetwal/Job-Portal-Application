@@ -11,8 +11,11 @@ Job Postings: Admin users can create, update, and delete job listings. They can 
 View Applicants: Admins can view applicants for each job and manage applicant details.
 State Management:
 Redux: Redux is used for managing the state of the application across components, ensuring that user data, job listings, and other relevant data persist across page reloads and interactions.
+
 API Testing:
 Postman: All API endpoints were tested using Postman to ensure smooth communication between the frontend and backend.
+
+
 Tech Stack
 Frontend:
 
